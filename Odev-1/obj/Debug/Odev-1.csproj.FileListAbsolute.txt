@@ -1,0 +1,184 @@
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\altan.demirci\source\repos\Odev-1\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1\Odev-1\obj\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol\Odev-1\obj\Debug\Odev_1.IMDB.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.IMDB.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1 - Rol - MDI\Odev-1\obj\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.IMDB.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\MetroFramework.Design.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\MetroFramework.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.Register.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.Login.resources
+C:\Users\ALTAN EMRE\Desktop\Odev-1-Rol-MDI\Odev-1\obj\Debug\Odev_1.WatchList.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\Odev-1.exe.config
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\Odev-1.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\MetroFramework.Design.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\MetroFramework.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Interop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.csproj.ResolveComReference.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.Form1.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.frm_Director.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.frm_Star.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.frm_Writer.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.IMDB.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.Login.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.MovieDetails.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.Photos.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.Register.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev_1.WatchList.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.exe
+C:\Users\ALTAN EMRE\source\repos\Odev-1-Rol\Odev-1\obj\Debug\Odev-1.pdb
